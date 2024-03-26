@@ -1,0 +1,10 @@
+[package]
+name = "squeezy"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+fft2d = "0.1.1"
+image = "0.25.0"
+rustfft = "6.2.0"
